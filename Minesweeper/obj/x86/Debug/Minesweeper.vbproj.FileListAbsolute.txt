@@ -1,0 +1,13 @@
+C:\Users\Ben\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Ben\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Ben\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.xml
+C:\Users\Ben\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.frmMain.resources
+C:\Users\Ben\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Resources.resources
+C:\Users\Ben\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.vbproj.GenerateResource.Cache
+C:\Users\Ben\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.exe
+C:\Users\Ben\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.xml
+C:\Users\Ben\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.pdb
+C:\Users\Ben\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.BoardControl.resources
+C:\Users\Ben\Dropbox\My Programs\Minesweeper\Minesweeper Beta1\Minesweeper\obj\x86\Debug\Minesweeper.exe
+C:\Users\Ben\Dropbox\My Programs\Minesweeper\Minesweeper Beta1\Minesweeper\obj\x86\Debug\Minesweeper.xml
+C:\Users\Ben\Dropbox\My Programs\Minesweeper\Minesweeper Beta1\Minesweeper\obj\x86\Debug\Minesweeper.pdb
